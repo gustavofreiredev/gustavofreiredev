@@ -1,7 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&size=21&duration=1500&pause=1000&color=F78627&multiline=true&random=false&width=800&height=300&lines=Coding.%F0%9F%8E%AF;%E2%80%83%E2%80%83%E2%80%83;%E2%80%83%E2%80%83%E2%80%83%E2%80%83Learning.%F0%9F%93%9A;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83;%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83%E2%80%83Contributing.+%F0%9F%8C%90;%E2%80%83%E2%80%83;%E2%80%83%E2%80%83;Welcome+to+my++humble+space%2C++Feel+free+to+help+me+and+bring+pizza!;%F0%9F%8D%95%F0%9F%8D%95!!)](https://git.io/typing-svg)
 
-#ME
-Trying to learn the best way possible!
+## ME:
+
+Trying to learn the best way possible! focusing on JS,TS,REACT, NODE!
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-freirepti) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gustavo_freire) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/onlyzainn_) 
 
