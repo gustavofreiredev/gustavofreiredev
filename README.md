@@ -1,5 +1,5 @@
 
-## :shipit: ME:
+## ⚡Me:
 
 Trying to learn the best way possible! focusing on JS,TS,REACT, NODE!
 
