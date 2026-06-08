@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI Developer • Product Engineer • Python • TypeScript</strong>
+  <strong>AI Developer • Product Engineer • Python </strong>
 </p>
 
 <p align="center">
@@ -22,33 +22,6 @@
 </p>
 
 <hr />
-
-<p align="center">
-  <a href="#the-problem">The problem</a> •
-  <a href="#this-approach">This approach</a> •
-  <a href="#stack">Stack</a> •
-  <a href="#what-i-build">What I build</a> •
-  <a href="#background">Background</a> •
-  <a href="#connect">Connect</a>
-</p>
-
----
-
-## The problem
-
-Technical teams deal with repetitive workflows, disconnected tools, manual validations and complex information spread across different systems.
-
-In areas like telecom, product engineering and software development, this usually creates slow processes, duplicated effort and decisions based on fragmented data.
-
-## This approach
-
-I use **Artificial Intelligence, automation, Python and web technologies** to build tools that make technical workflows more practical, traceable and useful.
-
-My work combines software development with hands-on engineering experience, especially in networking, optical transceivers, DWDM and telecom product validation.
-
-The goal is simple: create solutions that reduce manual effort, improve technical visibility and help people make better decisions.
-
----
 
 ## Stack
 
@@ -110,19 +83,6 @@ API Development      TypeScript             React
 Telecom Networks     Product Engineering    Technical Documentation
 ```
 
----
-
-## GitHub
-
-<p align="center">
-  <img
-    height="165em"
-    alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofreiredev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-  />
-</p>
-
----
 
 ## Connect
 
