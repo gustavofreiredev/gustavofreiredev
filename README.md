@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI Developer • Product Engineer • Python </strong>
+  <strong>AI Developer • Product Engineer • Software Engineer </strong>
 </p>
 
 <p align="center">
