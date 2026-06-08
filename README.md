@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Freire</h1>
 
 <p align="center">
-  <strong>AI Developer • Product Engineer • Python • TypeScript</strong>
+  <strong>AI Developer • Product Engineer • Python</strong>
 </p>
 
 <p align="center">
@@ -49,18 +49,6 @@ AI Engineering  •  Python Automation  •  AI Agents
 APIs            •  TypeScript          •  React
 Telecom         •  Networking          •  Product Engineering
 ```
-
----
-
-## GitHub
-
-<p align="center">
-  <img 
-    height="170em"
-    alt="Most Used Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofreiredev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-  />
-</p>
 
 ---
 
